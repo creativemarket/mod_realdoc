@@ -1,3 +1,16 @@
+libapache2-mod-realdoc (1.0-2) trusty; urgency=medium
+
+  * Add apxs2 invocation to d/rules to actually build the binary module.
+  * Bump dh compat level to 9.
+  * Add myself to d/copyright.
+  * Add realdoc.conf and default to a 5s reload interval.
+  * Set myself as the maintainer of this package.
+  * Bump Standards-Version to 3.9.6 - no changes required.
+  * Rewrite short and long description.
+  * Add basic hardening activation in d/rules.
+
+ -- Sven Hoexter <sven@timegate.de>  Mon, 03 Aug 2015 09:21:36 +0200
+
 libapache2-mod-realdoc (1.0-1) unstable; urgency=medium
 
   * Initial libapache2-mod-realdoc package

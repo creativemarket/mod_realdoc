@@ -9,6 +9,7 @@ License: Apache-2.0
 
 Files: debian/*
 Copyright: 2014 Ryan Lane <rlane@lyft.com>
+	   2015 Sven Hoexter <sven@timegate.de>
 License: Apache-2.0
 
 License: Apache-2.0
